@@ -44,8 +44,25 @@ console.log(typeof outsideTemp );
 let myYoutubName = "riyasingh"
 
 let anothername = myYoutubName
+anothername = "riyaji"
+console.log(myYoutubName);
 
 console.log(anothername);
+ 
+
+let userone = {
+    email: "user@goole.com",
+    upi: "user@ybl"
+}
+
+let usertwo = userone
+
+userone.email= " riyaaokdhfoie.com"
+
+console.log(userone.email);
+console.log(usertwo.email)    
+
+
 
 
 
