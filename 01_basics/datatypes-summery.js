@@ -36,3 +36,16 @@ const myfuction = function(){
 
 console.log(typeof outsideTemp );
 // https://262.ecma-international.org/5.1/#sec-11.4.3
+
+//++++++++++++++++++++++++++++
+
+// Stack (Primitive)- value declare kiya hota hai toh uska copy milta hai , Heap (Non-Primitive)- isme refrence milta hai , acatul
+
+let myYoutubName = "riyasingh"
+
+let anothername = myYoutubName
+
+console.log(anothername);
+
+
+
